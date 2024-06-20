@@ -1,0 +1,3 @@
+Quero ajustar o posicionamento do login, no projeto de login do curso de HTML.
+Minha ideia é envelopar o formulario com mais uma div, para usar a ideia de position: relative e absolute, mas estou enfrentando problemas
+pois a div afeta o resto da css desse mesmo form
